@@ -45,7 +45,7 @@ except Exception as e:
     exit()
 
 # --- 4. BUILD THE CONVERSATIONAL RAG CHAIN ---
-llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
+llm = ChatOpenAI(temperature=0)
 
 qa_chain = ConversationalRetrievalChain.from_llm(
     llm,
