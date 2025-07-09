@@ -6,7 +6,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.embeddings import OpenAIEmbeddings
 # V-- THIS IS THE CORRECTED IMPORT --V
 from langchain_community.vectorstores import InMemoryVectorStore
-from langchain.chat_models import ChatOpenAI
+from langchain_community.chat_models import ChatOpenAI
 from langchain.chains import ConversationalRetrievalChain
 
 # --- 1. SET UP YOUR OPENAI API KEY ---

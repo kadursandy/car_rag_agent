@@ -1,4 +1,6 @@
-langchain~=0.3.25
+langchain
+langchain-openai
+langchain-community
 fastapi
 uvicorn
 streamlit
