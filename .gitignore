@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+venv/
+
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+build/
+*.log
+builds/
+*.sqlite
+*.yml
+.idea
+.env
+.venv

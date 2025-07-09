@@ -1,0 +1,11 @@
+langchain~=0.3.25
+fastapi
+uvicorn
+streamlit
+pydantic
+requests
+openai
+faiss-cpu
+PyPDF2
+tiktoken
+python-dotenv
