@@ -1,4 +1,5 @@
 # XEV 9E Car RAG Agent
+![Car RAG Agent Screenshot](screenshot.jpg)
 
 This project is a Retrieval-Augmented Generation (RAG) agent for answering questions about your car manual using OpenAI's GPT models. It provides both an API (FastAPI) and a user-friendly web UI (Streamlit).
 
